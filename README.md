@@ -55,11 +55,10 @@ upi_fraud_project/
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/upi-sentinel-fraud-analytics.git
-cd upi-sentinel-fraud-analytics
+git clone [ https://github.com/Shubham722707/upi-sentinel-fraud-analytics.git ]
 
 python -m venv venv
 source venv/bin/activate       # On Windows: venv\Scripts\activate
 
-pip install -r requirements.txt
+
 
