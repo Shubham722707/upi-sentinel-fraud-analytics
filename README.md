@@ -98,4 +98,3 @@ The platform features an autonomous intent-routing agent capable of parsing natu
 
 ---
 
-pip install -r requirements.txt
